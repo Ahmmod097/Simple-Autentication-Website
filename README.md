@@ -26,7 +26,7 @@ To make you excited, there is also some bonus factors. These are not mandatory. 
 5. Start a django project
 6. Create a django app
 7. use python manage.py runserver
-# Some Snapshot of websites 
+# Some Snapshot of my website
 ![signUP_page](https://user-images.githubusercontent.com/55923593/123591722-2cf00000-d80e-11eb-9587-7775316c6255.png)
 ![Web_page_login](https://user-images.githubusercontent.com/55923593/123591775-3aa58580-d80e-11eb-940e-43af8caf3185.png)
 ![Web_Page1](https://user-images.githubusercontent.com/55923593/123591804-4133fd00-d80e-11eb-8f58-493f80997cdb.png)
